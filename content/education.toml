@@ -1,0 +1,9 @@
+type = "card"
+title = "Education"
+description = ""
+
+[[items]]
+title = "TODO: Degree"
+subtitle = "TODO: University"
+date = "TODO"
+content = "TODO"
