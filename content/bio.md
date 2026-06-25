@@ -1,5 +1,7 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+Hi, I'm Chandler — a researcher working on reliable robot manipulation.
+I study **failure detection** and **reliability** in LLM/VLM-enabled robotic
+systems, with a focus on vision–language–action (VLA) models and the broader
+robot-learning stack.
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
-
-My current research focuses on investigating the mathematical principles of natural philosophy.
+I'm currently at **Zhejiang University**. Feel free to reach out if our
+interests overlap.

@@ -3,9 +3,10 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Computational Physics",
-  "Mathematical Principles",
-  "Proof of Theorems"
+  "Robotic Manipulation",
+  "Vision-Language-Action Models",
+  "Failure Detection & Reliability",
+  "Embodied AI",
 ]
 
 [[sections]]
@@ -26,4 +27,3 @@ id = "news"
 type = "list"
 title = "News"
 source = "news.toml"
-
