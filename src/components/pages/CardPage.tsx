@@ -59,12 +59,12 @@ export default function CardPage({ config, embedded = false }: { config: CardPag
                     >
                         <div className="flex items-start gap-5">
                         {item.image && (
-                            <div className="flex-shrink-0 w-14 h-14 relative rounded-lg overflow-hidden bg-neutral-100 dark:bg-neutral-800 self-center">
+                            <div className="flex-shrink-0 w-20 h-20 relative rounded-lg overflow-hidden bg-neutral-100 dark:bg-neutral-800 self-center">
                                 <Image
                                     src={item.image}
                                     alt={item.title}
                                     fill
-                                    className="object-contain p-1"
+                                    className="object-contain p-1.5"
                                 />
                             </div>
                         )}

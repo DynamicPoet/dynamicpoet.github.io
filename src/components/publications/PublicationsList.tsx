@@ -8,6 +8,7 @@ import {
     ClipboardDocumentIcon,
     DocumentTextIcon
 } from '@heroicons/react/24/outline';
+import { Github } from 'lucide-react';
 import { Publication } from '@/types/publication';
 import { PublicationPageConfig } from '@/types/page';
 import { cn } from '@/lib/utils';
@@ -52,13 +53,13 @@ export default function PublicationsList({ config, publications, embedded = fals
                         >
                             <div className="flex flex-col md:flex-row gap-6">
                                 {pub.preview && (
-                                    <div className="w-full md:w-48 flex-shrink-0">
-                                        <div className="aspect-video md:aspect-[4/3] relative rounded-lg overflow-hidden bg-neutral-100 dark:bg-neutral-800">
+                                    <div className="w-full md:w-56 flex-shrink-0">
+                                        <div className="aspect-video md:aspect-[16/10] relative rounded-lg overflow-hidden bg-neutral-100 dark:bg-neutral-800">
                                             <Image
                                                 src={`/papers/${pub.preview}`}
                                                 alt={pub.title}
                                                 fill
-                                                className="object-cover"
+                                                className="object-contain"
                                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                                             />
                                         </div>
@@ -109,7 +110,8 @@ export default function PublicationsList({ config, publications, embedded = fals
                                                 rel="noopener noreferrer"
                                                 className="inline-flex items-center px-3 py-1 rounded-md text-xs font-medium bg-neutral-100 dark:bg-neutral-800 text-neutral-700 dark:text-neutral-300 hover:bg-accent hover:text-white transition-colors"
                                             >
-                                                {messages.publications.code}
+                                                <Github className="h-3 w-3 mr-1.5" />
+                                                GitHub
                                             </a>
                                         )}
                                         {pub.abstract && (
