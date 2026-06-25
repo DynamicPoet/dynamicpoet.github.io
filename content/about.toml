@@ -3,9 +3,9 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Robotic Manipulation",
-  "Vision-Language-Action Models",
-  "Failure Detection & Reliability",
+  "VLM & VLA Models",
+  "World Models",
+  "Reliability & Trustworthiness",
   "Embodied AI",
 ]
 

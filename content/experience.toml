@@ -3,7 +3,8 @@ title = "Experience"
 description = ""
 
 [[items]]
-title = "Visiting PhD Student"
-subtitle = "Department of Computer Science, University College London (UCL)"
+title = "University College London (UCL)"
+subtitle = "Visiting PhD Student"
 date = "Feb. 2026 – Feb. 2027"
-content = "Supervised by [Prof. Chris Xiaoxuan Lu](https://christopherlu.github.io/). Research focus: failure detection and reliability in LLM/VLM-enabled robotic manipulation."
+content = "Hosted by Prof. Chris Xiaoxuan Lu"
+image = "/ucl.png"

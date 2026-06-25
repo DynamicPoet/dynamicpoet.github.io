@@ -3,19 +3,22 @@ title = "Education"
 description = ""
 
 [[items]]
-title = "Ph.D. in Electronic Engineering"
-subtitle = "Zhejiang University, China"
+title = "Zhejiang University"
+subtitle = "Ph.D. in Electronic Information"
 date = "Sept. 2023 – Present"
 content = "Advisor: Prof. Yuanchao Shu"
+image = "/zju.png"
 
 [[items]]
-title = "M.Sc. in Cyberspace Security"
-subtitle = "Hangzhou Dianzi University, China"
+title = "Hangzhou Dianzi University"
+subtitle = "M.Sc. in Cyberspace Security"
 date = "Sept. 2020 – June 2023"
-content = "Ranking: 2/58 · Advisor: Prof. Yiming Wu · Thesis: Research on Multi-Agent Systems with Combined Privacy Preservation and Resilience Consensus"
+content = "Ranking: 2/58 · Advisor: Prof. Yiming Wu"
+image = "/hdu.png"
 
 [[items]]
-title = "B.Eng. in Software Engineering"
-subtitle = "Ningbo Institute of Technology, Zhejiang University, China"
+title = "NingboTech University"
+subtitle = "B.Eng. in Software Engineering"
 date = "Sept. 2016 – June 2020"
 content = "Ranking: 6/85"
+image = "/nit.png"

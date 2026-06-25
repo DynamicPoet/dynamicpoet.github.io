@@ -1,7 +1,7 @@
 [site]
-title = ""
-description = "PhD student researching robotic manipulation and embodied AI."
-favicon = "/favicon.png"
+title = "Chenduo Ying"
+description = "Chenduo Ying ZJU"
+favicon = "/favicon.svg"
 last_updated = "June 2026"
 
 [author]
@@ -68,15 +68,3 @@ title = "Awards"
 type = "page"
 target = "awards"
 href = "/awards"
-
-[[navigation]]
-title = "Teaching"
-type = "page"
-target = "teaching"
-href = "/teaching"
-
-[[navigation]]
-title = "CV"
-type = "page"
-target = "cv"
-href = "/cv"
