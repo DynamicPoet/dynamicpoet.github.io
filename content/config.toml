@@ -1,18 +1,19 @@
 [site]
-title = "Chandler"
+title = ""
 description = "Researcher in robotics and embodied AI at Zhejiang University."
 favicon = "/favicon.svg"
 last_updated = "June 2026"
 
 [author]
-name = "Chandler"
-title = "PhD Student / Researcher"
+name = "Chenduo Ying（应晨铎）"
+title = "PhD Student"
 institution = "Zhejiang University"
 avatar = "/bio.jpg"
 
 [social]
 email = "cdying@zju.edu.cn"
 location = "London / Hangzhou"
+location_details = ["London / Hangzhou"]
 google_scholar = "https://scholar.google.com/citations?user=nmiPYxcAAAAJ&hl=en"
 github = "https://github.com/DynamicPoet"
 
@@ -24,7 +25,7 @@ enable_one_page_mode = false
 enabled = true
 locales = ["zh", "en"]
 default_locale = "en"
-mode = "auto"
+mode = "fixed"
 fixed_locale = "en"
 persist = true
 switcher = true
