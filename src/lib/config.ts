@@ -13,6 +13,7 @@ export interface SiteConfig {
   };
   author: {
     name: string;
+    name_zh?: string;
     title: string;
     institution: string;
     avatar: string;

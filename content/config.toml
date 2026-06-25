@@ -5,7 +5,8 @@ favicon = "/favicon.svg"
 last_updated = "June 2026"
 
 [author]
-name = "Chenduo Ying（应晨铎）"
+name = "Chenduo Ying"
+name_zh = "应晨铎"
 title = "PhD Student"
 institution = "Zhejiang University"
 avatar = "/bio.jpg"
