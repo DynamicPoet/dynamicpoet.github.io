@@ -3,7 +3,19 @@ title = "Education"
 description = ""
 
 [[items]]
-title = "TODO: Degree"
-subtitle = "TODO: University"
-date = "TODO"
-content = "TODO"
+title = "Ph.D. in Electronic Engineering"
+subtitle = "Zhejiang University, China"
+date = "Sept. 2023 – Present"
+content = "Advisor: Prof. Yuanchao Shu"
+
+[[items]]
+title = "M.Sc. in Cyberspace Security"
+subtitle = "Hangzhou Dianzi University, China"
+date = "Sept. 2020 – June 2023"
+content = "Ranking: 2/58 · Advisor: Prof. Yiming Wu · Thesis: Research on Multi-Agent Systems with Combined Privacy Preservation and Resilience Consensus"
+
+[[items]]
+title = "B.Eng. in Software Engineering"
+subtitle = "Ningbo Institute of Technology, Zhejiang University, China"
+date = "Sept. 2016 – June 2020"
+content = "Ranking: 6/85"

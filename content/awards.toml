@@ -1,4 +1,28 @@
 type = "card"
 title = "Awards"
-description = "Honors and awards I have received."
-items = []
+description = ""
+
+[[items]]
+title = "Outstanding Graduate Student Award"
+subtitle = "Zhejiang University"
+date = "2023"
+
+[[items]]
+title = "National Scholarship"
+subtitle = "Hangzhou Dianzi University"
+date = "2022"
+
+[[items]]
+title = "Outstanding Graduates of Zhejiang Province"
+subtitle = "Zhejiang Province"
+date = "2023"
+
+[[items]]
+title = "Zhejiang Provincial Government Scholarship"
+subtitle = "Ningbo Institute of Technology, Zhejiang University"
+date = "2020"
+
+[[items]]
+title = "First-class Scholarship"
+subtitle = "Ningbo Institute of Technology, Zhejiang University"
+date = "2016 – 2020"

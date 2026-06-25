@@ -1,7 +1,7 @@
 [site]
 title = ""
 description = "PhD student researching robotic manipulation and embodied AI."
-favicon = "/favicon.svg"
+favicon = "/favicon.png"
 last_updated = "June 2026"
 
 [author]
