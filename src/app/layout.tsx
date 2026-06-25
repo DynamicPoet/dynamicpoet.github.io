@@ -15,8 +15,8 @@ export async function generateMetadata(): Promise<Metadata> {
 
   return {
     title: {
-      default: config.site.title,
-      template: `%s | ${config.site.title}`,
+      default: config.site.tab_title || config.site.title,
+      template: `%s | ${config.site.tab_title || config.site.title}`,
     },
     description: config.site.description,
     keywords: [config.author.name, 'PhD', 'Research', config.author.institution],
