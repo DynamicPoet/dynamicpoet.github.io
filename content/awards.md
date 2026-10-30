@@ -1,4 +1,4 @@
-🏆 **Outstanding Graduate Student Award**, Zhejiang University *(2025)*
+🏆 **Outstanding Graduate Student Award**, Zhejiang University *(2025,2026)*
 
 🏆 **Outstanding Graduates of Zhejiang Province**, Hangzhou Dianzi University *(2023)*
 
@@ -6,4 +6,4 @@
 
 🏆 **Zhejiang Provincial Government Scholarship** *(2020)*
 
-🏆 **First-class Scholarship** *(2018)*
+🏆 **First-class Scholarship** *(2018,2019)*
