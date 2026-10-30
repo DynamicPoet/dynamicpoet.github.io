@@ -4,6 +4,6 @@
 
 🏆 **National Scholarship**, Hangzhou Dianzi University *(2022)*
 
-🏆 **Zhejiang Provincial Government Scholarship**, NingboTech University *(2020)*
+🏆 **Zhejiang Provincial Government Scholarship** *(2020)*
 
-🏆 **First-class Scholarship**, NingboTech University *(2018)*
+🏆 **First-class Scholarship** *(2018)*
